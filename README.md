@@ -147,7 +147,7 @@ Contributions are welcome! Please open issues or pull requests for bug fixes, im
 ---
 
 browse the app 
-https://agripredictmodel.streamlit.app/
+(https://agripredictmodel.streamlit.app/)
 
 ## Contact
 
